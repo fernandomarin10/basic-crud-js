@@ -35,6 +35,6 @@ document.addEventListener('DOMContentLoaded', function (){
     btn.onclick = addTodo;
 });
 
-//26:31
+//26:30
 
 
